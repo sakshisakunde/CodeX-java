@@ -29,5 +29,5 @@
 -- select title, concat(author_fname, " ", author_lname)as fullname from books;
 
 -- select char_length(title)as title_length, title from books;
-select title uppercase ("Agnipankha") from books;
+
 
